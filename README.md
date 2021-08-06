@@ -1,8 +1,11 @@
 # pandas-challenge
 
-My job as a data analyst was to analyze the ourchasing data for Heroes of Pymoli. Users can play the game for free, but are encouraged to 
-purchase tools to make the game experience more fun. The gaming company wanted me to explore the data and pull a few trends that will influence
-the company's decision making.
+Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
+Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
+My final report includes insights from each of the following: player count, purchasing analysis, gender demographics, age demographics, top spenders, most popular items and most profitable items.
+
+    
+# Data Analysis
 
 Three observable trends based on my Heroes of Pymoli data analysis:
   1. Pymoli players overwhelmingly identify as male. Therefore, they are more likely to buy more items and spend more money.
